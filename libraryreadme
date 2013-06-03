@@ -1,0 +1,4 @@
+This will import all of the librarys in the standerd alan3 librarys.
+Add this line to your alan game at the very top:
+impot 'library.i'
+
